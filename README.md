@@ -1,0 +1,1 @@
+# ARIMA-for-Electricity-Production  Auto-Regressive Integrated Moving Average (ARIMA) to forecast future values of electricity consumption. The duration taken is between 1939 CE to 2020 CE. We can see an upward trend over time.Train data set has values from 01-01-1939 to 01-12-2016 and Test data set has value from 01-01-2017 to 01-11-2020.
